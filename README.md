@@ -4,4 +4,4 @@ some description!
 
 ## Subheader
 
-watch tuturial on yputube
+watch tuturial on youtube
